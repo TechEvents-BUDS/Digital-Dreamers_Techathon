@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226428931621",
+    "project_id": "bidobid-a00e1",
+    "storage_bucket": "bidobid-a00e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226428931621:android:646240595a177bb1beb9cc",
+        "android_client_info": {
+          "package_name": "com.example.bidobid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226428931621-uvp3nmmgnqn1pvv4v19epctnnlh8ap2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJUxfth_sB1eT1V8cwQtv-XMSAu1K3iFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226428931621-uvp3nmmgnqn1pvv4v19epctnnlh8ap2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
